@@ -1,4 +1,4 @@
-## Viz and near viz notes
+## Projects and notes
 
 
 [Запорожцы](/posts/zaz-interesting) это очень интересно. Инфографика по теме.
