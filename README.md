@@ -4,7 +4,7 @@
 [Запорожцы](/posts/zaz-interesting) это очень интересно. Инфографика по теме.
 
 
-[Высшее образование в моногородах](univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
+[Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
 
 
 [О факторных переменных](/posts/factor-guide-rus) с примерами.
