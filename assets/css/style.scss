@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h1, h2, h3, h4, p {
-  font-family: 'PT Sans';
+h1, h2, h3, h4 {
+  font-family: 'Rubik';
+}
+
+p {
+  font-family: 'Open Sans';
 }
