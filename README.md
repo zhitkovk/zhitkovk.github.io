@@ -1,7 +1,7 @@
 ## Projects and notes
 
 
-[Запорожцы](/posts/zaz-interesting) это очень интересно. Инфографика по теме.
+[Запорожцы](/posts/zaz-interesting) это очень интересно. Визуализация по теме.
 
 
 [Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
@@ -17,6 +17,9 @@
 
 
 [Подборка](https://github.com/zhitkovk/article_collection) полезных статей и книжек про визуализацию данных, программирование на R и статистику.
+
+
+[Минималистичная тема для ggplot2](https://github.com/zhitkovk/themehumble). Убраны лишние элементы и увеличены подписи осей.
 
 
 ## About
