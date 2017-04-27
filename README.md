@@ -7,7 +7,7 @@
 [Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
 
 
-[Заметка про редизайн номер 1](http://telegra.ph/REDESIGN-Trudoustrojstvo-vypusknikov-po-okrugu-vuza-04-25-2) - трудостройство выпускников и [Заметка про редизайн номер 2](http://telegra.ph/Small-multiples-vs-dodged-bar-chart-na-primere-priyomoj-kampanii-2015-04-27) - small multiples для приёмной кампании 2015 года
+[Редизайн: трудостройство выпускников](http://telegra.ph/REDESIGN-Trudoustrojstvo-vypusknikov-po-okrugu-vuza-04-25-2) и [small multiples для приёмной кампании 2015 года](http://telegra.ph/Small-multiples-vs-dodged-bar-chart-na-primere-priyomoj-kampanii-2015-04-27). Рабочие проекты для популяризации визуализации данных с помощью ggplot2.
 
 
 [О факторных переменных](/posts/factor-guide-rus) с примерами.
