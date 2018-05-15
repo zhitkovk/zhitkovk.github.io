@@ -25,10 +25,7 @@
 [Подборка](https://github.com/zhitkovk/article_collection) полезных статей и книжек про визуализацию данных, программирование на R и статистику.
 
 
-[Минималистичная тема для ggplot2](https://github.com/zhitkovk/themehumble). Убраны лишние элементы и увеличены подписи осей.
-
-
 ## About
 
 
-Чтобы разобраться в чем-то нужно рассказать об этом другим.
+R/Python for data analysis and visualization
