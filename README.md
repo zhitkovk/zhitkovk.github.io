@@ -3,9 +3,9 @@
 
 [Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
 
+[Анализ цветов логотипов российских университетов](http://telegra.ph/Cvetovaya-palitra-vuzovskih-logotipov-05-26). Необычные картинки, k-means и PCA.
 
 [Заготовка кода](/posts/cluster-code) для exploratory анализа и построения _иерархических_ кластеров
-
 
 [Редизайн: трудостройство выпускников](http://telegra.ph/REDESIGN-Trudoustrojstvo-vypusknikov-po-okrugu-vuza-04-25-2), [small multiples для приёмной кампании 2015 года](http://telegra.ph/Small-multiples-vs-dodged-bar-chart-na-primere-priyomoj-kampanii-2015-04-27) и [динамика среднего балла ЕГЭ](http://telegra.ph/REDESIGN-Srednij-ball-EGEH-i-priyom-v-vuzy-05-17) Рабочие проекты для популяризации визуализации данных с помощью ggplot2.
 
