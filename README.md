@@ -1,31 +1,25 @@
 ## Projects and notes
 
+[Решение](https://github.com/zhitkovk/vc_robot) конкурса  McKinsey и Alibaba по Data science.
 
-[Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой рабочий проект на основе Leaflet JS. 
+[Редизайн макроэкономического графика](https://medium.com/@zhitkovk/using-ggplot2-to-redesign-a-macroeconomics-chart-7f5b205312ae). Подробная заметка на медиуме.
+
+[Высшее образование в моногородах](https://univelopment.github.io/map-mono). Большой проект на основе Leaflet JS во время работы в лаборатории «Развитие университетов» в вышке.
 
 [Анализ цветов логотипов российских университетов](http://telegra.ph/Cvetovaya-palitra-vuzovskih-logotipov-05-26). Необычные картинки, k-means и PCA.
 
-[Заготовка кода](/posts/cluster-code) для exploratory анализа и построения _иерархических_ кластеров
+[Много графиков из ggplot2](https://github.com/univelopment/t_channel). Популярные заметки о визуализации с примерами про высшее образование.
 
-[Редизайн: трудостройство выпускников](http://telegra.ph/REDESIGN-Trudoustrojstvo-vypusknikov-po-okrugu-vuza-04-25-2), [small multiples для приёмной кампании 2015 года](http://telegra.ph/Small-multiples-vs-dodged-bar-chart-na-primere-priyomoj-kampanii-2015-04-27) и [динамика среднего балла ЕГЭ](http://telegra.ph/REDESIGN-Srednij-ball-EGEH-i-priyom-v-vuzy-05-17) Рабочие проекты для популяризации визуализации данных с помощью ggplot2.
+[О факторных переменных в R](/posts/factor-guide-rus) с примерами ([eng](/posts/factor-guide-eng))
 
-
-[О факторных переменных](/posts/factor-guide-rus) с примерами.
-
-
-[О факторных переменных](/posts/factor-guide-eng) на английском. Чуть меньше примеров.
-
-
-[Запорожцы](/posts/zaz-interesting) это очень интересно. Визуализация по теме.
-
+[Запорожцы](/posts/zaz-interesting) это очень интересно. Визуализация c добавлением png картинкок на график.
 
 [Coord_flip and stacked bar fill order](/posts/legend-order). Делаем порядок заливки в легенде и на графике одинаковым. Making the filling order of bars and legend match.
 
-
-[Подборка](https://github.com/zhitkovk/article_collection) полезных статей и книжек про визуализацию данных, программирование на R и статистику.
+[Подборка](https://github.com/zhitkovk/article_collection) полезных статей и книжек про визуализацию данных, программирование и статистику.
 
 
 ## About
 
 
-R/Python for data analysis and visualization
+I work as a data analyst and enjoy clear communication of complex ideas through visual representation.
