@@ -17,9 +17,3 @@
 [Coord_flip and stacked bar fill order](/posts/legend-order). Делаем порядок заливки в легенде и на графике одинаковым. Making the filling order of bars and legend match.
 
 [Подборка](https://github.com/zhitkovk/article_collection) полезных статей и книжек про визуализацию данных, программирование и статистику.
-
-
-## About
-
-
-I work as a data analyst and enjoy clear communication of complex ideas through visual representation.
