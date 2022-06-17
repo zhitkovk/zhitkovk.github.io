@@ -5,6 +5,6 @@ I am a data analyst and the main focus of my job is to study __user behaviour__ 
 
 ## Links
 
-- Why posthoc power analysis is wrong? My port of Worldbank article to Python.
+- Why posthoc power analysis is wrong? My port of [Worldbank article](https://github.com/zhitkovk/stats/blob/main/worldbank_article/worldbank_posthoc_power.ipynb) to Python.
 - Couple of dataviz examples from [medium](https://medium.com/@zhitkovk) (small multiples and line charts)
-- I tried my luck in a simple forecasting competition once. The repo contrains the code with the exploratory analysis and predictions.
+- I tried my luck in a simple forecasting competition once. [The repo](https://github.com/zhitkovk/vc_robot) contrains the code with the exploratory analysis and predictions in R.
